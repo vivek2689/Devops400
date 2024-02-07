@@ -1,3 +1,4 @@
 This is file B
 change made to File B
 changes made to File B again
+Squash merge File B
